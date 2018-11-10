@@ -1,0 +1,22 @@
+{
+  "name": "angular-registration-form",
+  "version": "1.0.0",
+  "description": "Angular Admin Panel",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arun32me/Angular-Registration-Form.git"
+  },
+  "author": "Arun Lalithambaran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arun32me/Angular-Registration-Form/issues"
+  },
+  "homepage": "https://github.com/arun32me/Angular-Registration-Form#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
